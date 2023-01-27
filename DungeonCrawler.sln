@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonCrawler", "DungeonCrawler\DungeonCrawler.csproj", "{493DB5A0-6D8E-42CD-999E-20C43BDD100F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonCrawler.Tests", "DungeonCrawler.Tests\DungeonCrawler.Tests.csproj", "{ED91AB59-0C44-4274-9DF5-F468B4F467AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonCrawler.Library", "DungeonCrawler.Library\DungeonCrawler.Library.csproj", "{20CADF38-C54F-483E-9E71-D252323CC50E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{493DB5A0-6D8E-42CD-999E-20C43BDD100F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{493DB5A0-6D8E-42CD-999E-20C43BDD100F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{493DB5A0-6D8E-42CD-999E-20C43BDD100F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED91AB59-0C44-4274-9DF5-F468B4F467AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED91AB59-0C44-4274-9DF5-F468B4F467AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED91AB59-0C44-4274-9DF5-F468B4F467AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED91AB59-0C44-4274-9DF5-F468B4F467AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20CADF38-C54F-483E-9E71-D252323CC50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CADF38-C54F-483E-9E71-D252323CC50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CADF38-C54F-483E-9E71-D252323CC50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CADF38-C54F-483E-9E71-D252323CC50E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
